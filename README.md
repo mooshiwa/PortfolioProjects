@@ -18,7 +18,7 @@ Because data is the new bacon! 🥓 And just like cooking, the fun is in experim
 
 ## 💡 Let's Connect!
 
-Got a cool idea? A joke, maybe? Or just want to chat about the weather? I'm all ears! Find me on [LinkedIn](Your_LinkedIn_Profile_Link) or drop a comment here.
+Got a cool idea? A joke, maybe? Or just want to chat about the weather? I'm all ears! Find me on [LinkedIn](https://www.linkedin.com/in/ifeanyichukwu-udeze) or drop a comment here.
 
 > Remember, data is like a joke. If you have to explain it, it isn’t that good. Luckily for you, this repository is packed with both data and jokes that _don't_ need explaining! 😉
 
