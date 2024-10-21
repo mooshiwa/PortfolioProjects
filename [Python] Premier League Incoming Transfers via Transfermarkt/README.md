@@ -18,4 +18,6 @@ This project uses Python and a few powerful libraries to scrape transfer data fr
 
 ## 🚀 Getting Started
 
-To get started, open the PL_Incoming file or mainscraper.py
+To get started, see the PL_Incoming.ipynb for step-by-step explainations or mainscraper.py for the standalone script.
+
+Have fun playing with those.
